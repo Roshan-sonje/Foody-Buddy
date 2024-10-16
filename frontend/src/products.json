@@ -1,0 +1,123 @@
+[
+    {   
+        "id":1,
+        "img":"/src/assets/bhaji/shev-bhaji.webp",
+        "reviews":"2",
+        "name":"Shev Bhaji",
+        "rate":"140",
+        "type":"Bhaji",
+        "pcs":1
+    },
+
+    {
+        "id":2,
+        "img":"/src/assets/bhaji/Kadai-Paneer.jpg",
+        "reviews":"3",
+        "name":"Kadai Panner",
+        "rate":"180",
+        "type":"Bhaji",
+        "pcs":1
+    },
+
+    {
+        "id":3,
+        "img":"/src/assets/bhaji/Veg-Korma.jpg",
+        "reviews":"3",
+        "name":"Veg Korma",
+        "rate":"200",
+        "type":"Bhaji",
+        "pcs":1
+    },
+
+    {
+        "id":4,
+        "img":"/src/assets/bhaji/Shahi-Paneer.jpg",
+        "reviews":"3",
+        "name":"Shahi Panner",
+        "rate":"180",
+        "type":"Bhaji",
+        "pcs":1
+    },
+
+    {
+        "id":5,
+        "img":"/src/assets/bhaji/mix bhaji.png",
+        "reviews":"3",
+        "name":"Mix Bhaji",
+        "rate":"180",
+        "type":"Bhaji",
+        "pcs":1
+    },
+
+    {
+        "id":6,
+        "img":"/src/assets/bhaji/kaju-butter-masala.webp",
+        "reviews":"3",
+        "name":"Kaju Butter Masala",
+        "rate":"220",
+        "type":"Bhaji",
+        "pcs":1
+    },
+
+
+    {
+        "id":7,
+        "img":"/src/assets/breakfast/poha.webp",
+        "reviews":"3",
+        "name":"Poha",
+        "rate":"30",
+        "type":"breakfast",
+        "pcs":1
+    },
+
+    {
+        "id":8,
+        "img":"/src/assets/breakfast/upma.jpg",
+        "reviews":"3",
+        "name":"Upma",
+        "rate":"25",
+        "type":"breakfast",
+        "pcs":1
+    },
+
+    {
+        "id":9,
+        "img":"/src/assets/breakfast/dhokla.webp",
+        "reviews":"3",
+        "name":"Dhokla",
+        "rate":"40",
+        "type":"breakfast",
+        "pcs":1
+    },
+
+    {
+        "id":10,
+        "img":"/src/assets/breakfast/dosa.webp",
+        "reviews":"3",
+        "name":"Dosa",
+        "rate":"40",
+        "type":"breakfast",
+        "pcs":1
+    },
+    
+    {
+        "id":11,
+        "img":"/src/assets/breakfast/paratha.jpg",
+        "reviews":"3",
+        "name":"Paratha",
+        "rate":"30",
+        "type":"breakfast",
+        "pcs":1
+    },
+
+    {
+        "id":12,
+        "img":"/src/assets/breakfast/misal-pav.jpg",
+        "reviews":"3",
+        "name":"Misal Pav",
+        "rate":"60",
+        "type":"breakfast",
+        "pcs":1
+    }
+
+]
